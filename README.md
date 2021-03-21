@@ -20,9 +20,9 @@ We were assigned to create a data frame for ride share data by city type.  This 
 ## Analysis:
 * Urban cities have the highest amount of rides and brings in almost 10x the amount of fares compared to Rural areas and almost 2x the total fares of Suburban areas.
 * The average fare per ride:
-- Rural: $34.62
-- Suburban: $30.97
-- Urban: $24.53
+	- Rural: $34.62
+	- Suburban: $30.97
+	- Urban: $24.53
 * The average fare per driver is almost 3x higher in Rural areas than Urban areas.
 * There are significantly less drivers in Rural areas than there are in urban areas, with the total drivers in Suburban areas falls at around 490, closer to the total in rural areas.
 
